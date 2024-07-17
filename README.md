@@ -1,0 +1,2 @@
+# Sudoku
+Diskrete Mathematik 
